@@ -1,0 +1,4 @@
+repository "Vuforia1 2025-09-14_17-51-15/Vuforia_First_App@13469259616205@cloud"
+  path "/"
+    br "/main"
+    co "/main"
